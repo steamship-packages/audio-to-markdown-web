@@ -21,7 +21,7 @@ nav-menu:
 - text: About
   permalink: about
 - text: GitHub
-  permalink: https://github.com/steamship-packages/audio-to-markdown
+  permalink: https://github.com/steamship-packages/
 - text: Steamship
   permalink: https://www.steamship.com/
 
@@ -29,7 +29,7 @@ nav-menu:
 twitter: https://twitter.com/GetSteamship
 facebook: false
 instagram: false
-github: https://github.com/steamship-packages/audio-to-markdown
+github: https://github.com/steamship-packages/
 linkedin: https://linkedin.com/company/Steamship
 medium: https://www.medium.com/steamship
 google-scholar: false
