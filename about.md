@@ -21,3 +21,17 @@ We assemble and divide up the work. We're spread across Belgium, Washington DC, 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Daily 11am meeting (Belgium&lt;&gt;DC&lt;&gt;SF) -- we&#39;re going to split up the work.<a href="https://twitter.com/FraudulentTom?ref_src=twsrc%5Etfw">@FraudulentTom</a> on Transcript -&gt; Markdown<a href="https://twitter.com/jdouglasreid?ref_src=twsrc%5Etfw">@jdouglasreid</a> on Audio processing<a href="https://twitter.com/eniascailliau?ref_src=twsrc%5Etfw">@eniascailliau</a> on Packaging<br>Me on a website to demo<br><br>We&#39;ll see how long to go from Notion sketch to web demo. <a href="https://t.co/ec8WyEH74a">pic.twitter.com/ec8WyEH74a</a></p>&mdash; Ted Benson (@edwardbenson) <a href="https://twitter.com/edwardbenson/status/1582404557078138880?ref_src=twsrc%5Etfw">October 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## 1:30pm ET
+
+Ok! We've got:
+
+*  [A basic website up](https://audio-to-markdown.steamship.com/)
+*  [The shell of a Steamship package](https://github.com/steamship-packages/audio-markdown/commit/4ae665cab296e9b745a2629c12fc1cc092187a5f)
+
+We're going to use the [audio-analytics](https://github.com/steamship-packages/audio-analytics-app) package that we've previously written as a base.
+
+>    Note from Ted:
+>
+>    I've got to be honest.. Ruby, Javascript, TailwindCSS: I love you, old friends. 
+>
+>    ...But you are very hard to get up and running correctly in a time crunch.
