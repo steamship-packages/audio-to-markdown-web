@@ -1,0 +1,47 @@
+# change the followings to match your Github username and repo name
+baseurl: "/tailpages" # the name of your github repo
+url: "https://audio-to-markdown.steamship.com/" # the url of your github pages
+
+# site information used in page title, meta data etc.
+title: "audio-to-markdown Package - Steamship"
+description: A one-day project to build a Whisper-based Audio-to-Markdown API
+
+# color theme for links
+theme-color: indigo # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Steamship
+author-bio: Ship AI Faster  # change to false to hide
+author-image: steamship-symbol-dark.png  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: About
+  permalink: about
+- text: GitHub
+  permalink: https://github.com/steamship-packages/audio-to-markdown
+- text: Steamship
+  permalink: https://www.steamship.com/
+
+# use false to turn off any social media links
+twitter: https://twitter.com/GetSteamship
+facebook: false
+instagram: false
+github: https://github.com/steamship-packages/audio-to-markdown
+linkedin: https://linkedin.com/company/Steamship
+medium: https://www.medium.com/steamship
+google-scholar: false
+email: mailto://hello@steamship.com
+
+# footer information
+footer-msg: "Ship AI Faster"
+footer-msg-link: https://steamship.com/
+
+# google analytics
+google-analytics: G-2G9J514YCN
+
+# jekyll plugins - no need to change
+plugins:
+    - jekyll-seo-tag
